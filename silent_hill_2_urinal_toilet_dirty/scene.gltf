@@ -1,0 +1,563 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1176,
+      "max": [
+        0.21669000387191772,
+        0.00049000000581145287,
+        1.2939000129699707
+      ],
+      "min": [
+        -0.2125999927520752,
+        -0.45120000839233398,
+        0.38637998700141907
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 14112,
+      "componentType": 5126,
+      "count": 1176,
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 1176,
+      "max": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1176,
+      "max": [
+        0.99869000911712646,
+        0.99901998043060303
+      ],
+      "min": [
+        0.061859998852014542,
+        0.0013099999632686377
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 4356,
+      "max": [
+        1175
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 28224,
+      "componentType": 5126,
+      "count": 320,
+      "max": [
+        0.050360001623630524,
+        0.70683002471923828,
+        -0.19776999950408936
+      ],
+      "min": [
+        -0.060430001467466354,
+        0.0028399999719113111,
+        -0.44745001196861267
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 32064,
+      "componentType": 5126,
+      "count": 320,
+      "max": [
+        0.99999672174453735,
+        1,
+        0.9999966025352478
+      ],
+      "min": [
+        -0.99999982118606567,
+        -1,
+        -0.99999910593032837
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 18816,
+      "componentType": 5126,
+      "count": 320,
+      "max": [
+        0.99999910593032837,
+        0.99999898672103882,
+        0.99999904632568359,
+        1
+      ],
+      "min": [
+        -0.99999910593032837,
+        -0.98452317714691162,
+        -0.99999982118606567,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 9408,
+      "componentType": 5126,
+      "count": 320,
+      "max": [
+        0.52831000089645386,
+        0.29394999146461487
+      ],
+      "min": [
+        0.23141999542713165,
+        0.016599999740719795
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 17424,
+      "componentType": 5125,
+      "count": 906,
+      "max": [
+        319
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Yaiyeondurising (https://sketchfab.com/5Life)",
+      "license": "CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)",
+      "source": "https://sketchfab.com/3d-models/silent-hill-2-urinal-toilet-dirty-482b268cdac2414087fec61644ecb2e6",
+      "title": "Silent Hill 2 Urinal Toilet Dirty"
+    },
+    "generator": "Sketchfab-7.27.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 21048,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 11968,
+      "byteOffset": 21048,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 35904,
+      "byteOffset": 33016,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 23936,
+      "byteOffset": 68920,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 92856,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/DIFFUSE.001_baseColor.png"
+    },
+    {
+      "uri": "textures/DIFFUSE.001_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/DIFFUSE_baseColor.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "DIFFUSE.001",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "metallicFactor": 1,
+        "metallicRoughnessTexture": {
+          "index": 1,
+          "texCoord": 0
+        },
+        "roughnessFactor": 1
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "DIFFUSE",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 2,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.59999999999999998
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "s4studio_mesh_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "s4studio_mesh_1.001_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        13,
+        15
+      ],
+      "name": "Root"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        -0.29262000000000005,
+        0.96094000000000013,
+        -0.055520000000000007,
+        0,
+        -0.77575000000000005,
+        -0.20109000000000002,
+        0.6081700000000001,
+        0,
+        0.56981000000000004,
+        0.21971000000000004,
+        0.79947000000000001,
+        0,
+        2.8364399999999992,
+        0.0051800000000000014,
+        3.99769,
+        1
+      ],
+      "name": "Lamp.004"
+    },
+    {
+      "name": "Lamp.004"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        -0.29262000000000005,
+        0.96094000000000013,
+        -0.055520000000000007,
+        0,
+        -0.77575000000000005,
+        -0.20109000000000002,
+        0.6081700000000001,
+        0,
+        0.56981000000000004,
+        0.21971000000000004,
+        0.79947000000000001,
+        0,
+        -3.19977,
+        0.0051800000000000014,
+        3.99769,
+        1
+      ],
+      "name": "Lamp.001"
+    },
+    {
+      "name": "Lamp.001"
+    },
+    {
+      "children": [
+        8
+      ],
+      "matrix": [
+        -0.29262000000000005,
+        0.96094000000000013,
+        -0.055520000000000007,
+        0,
+        -0.77575000000000005,
+        -0.20109000000000002,
+        0.6081700000000001,
+        0,
+        0.56981000000000004,
+        0.21971000000000004,
+        0.79947000000000001,
+        0,
+        -0.18167,
+        3.0232900000000003,
+        3.99769,
+        1
+      ],
+      "name": "Lamp.002"
+    },
+    {
+      "name": "Lamp.002"
+    },
+    {
+      "children": [
+        10
+      ],
+      "matrix": [
+        -0.29262000000000005,
+        0.96094000000000013,
+        -0.055520000000000007,
+        0,
+        -0.77575000000000005,
+        -0.20109000000000002,
+        0.6081700000000001,
+        0,
+        0.56981000000000004,
+        0.21971000000000004,
+        0.79947000000000001,
+        0,
+        -0.18167,
+        -3.0129199999999998,
+        3.99769,
+        1
+      ],
+      "name": "Lamp.003"
+    },
+    {
+      "name": "Lamp.003"
+    },
+    {
+      "children": [
+        12
+      ],
+      "matrix": [
+        1.00604,
+        0,
+        0,
+        0,
+        0,
+        1.00604,
+        0,
+        0,
+        0,
+        0,
+        1.00604,
+        0,
+        -0.18167,
+        0.0051800000000000014,
+        -0.026450000000000008,
+        1
+      ],
+      "name": "s4studio_mesh_0"
+    },
+    {
+      "name": "s4studio_mesh_0_0"
+    },
+    {
+      "children": [
+        14
+      ],
+      "matrix": [
+        1.0059899999999997,
+        -3.0000000000000011e-05,
+        -0.009890000000000003,
+        0,
+        0.00021000000000000006,
+        1.0058699999999998,
+        0.018480000000000003,
+        0,
+        0.009890000000000003,
+        -0.018490000000000003,
+        1.0058199999999997,
+        0,
+        -0.036470000000000002,
+        0.0051800000000000014,
+        -0.017170000000000005,
+        1
+      ],
+      "name": "s4studio_mesh_1"
+    },
+    {
+      "mesh": 0,
+      "name": "s4studio_mesh_1"
+    },
+    {
+      "children": [
+        16
+      ],
+      "matrix": [
+        0.55930000000000002,
+        0.0053300000000000005,
+        -0.00012000000000000004,
+        0,
+        0.00033000000000000011,
+        -0.021920000000000005,
+        0.55889000000000011,
+        0,
+        0.0053200000000000009,
+        -0.55887000000000009,
+        -0.021920000000000005,
+        0,
+        -0.022470000000000007,
+        -0.35988000000000009,
+        -0.032430000000000007,
+        1
+      ],
+      "name": "s4studio_mesh_1.001"
+    },
+    {
+      "mesh": 1,
+      "name": "s4studio_mesh_1.001_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}
+
